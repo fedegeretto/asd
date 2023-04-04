@@ -696,14 +696,22 @@ form{
 
   .navegacion.activo{
     width: 80%;
+
   }
 
   .menu-contacto li a{
-    font-size: .8rem;
+    font-size: .9rem;
     }
 
     .menu-contacto li i{
         font-size: 1rem;
     }
 
+    .navegacion h3 {
+        padding-top: .1rem;
+    }
+
+    .menu-contacto-li p{
+        font-size: .8rem;
+    }
 }
